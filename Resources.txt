@@ -1,0 +1,8 @@
+google.generativeai
+speech_recognition
+pyttsx3
+tkinter
+customtkinter
+PIL
+pywhatkit
+webbrowser
